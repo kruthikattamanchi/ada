@@ -1,4 +1,4 @@
-# KRUTHI K
+### KRUTHI K
 
 ------------
 Bellevue, WA 98007
@@ -6,7 +6,7 @@ sfsfdsdf@dfsdf.com
 3343-34324-32432432
 -------------
 
-Hihhlights
+Highlights
 ----------
 * Highly Motivated
 
