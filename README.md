@@ -6,6 +6,13 @@ kruthikattamanchi@gmail.com
 
 ----------------------------------------
 
+Highlights
+----------
+* Highly motivated and fast learner
+* Solid Academic Background in Computer Science
+* Strong knowledge in C, Java and SQL
+* Experience in Manual Game Testing
+
 Experience
 ----------
 ##### **Game Tester**, *HCL Games*, March 2016 - present
